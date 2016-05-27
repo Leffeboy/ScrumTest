@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
+<fullyQualifiedTypeName name="theredSQL.database"/>
+<fullyQualifiedTypeName name="theredSQL.Record"/>
+<fullyQualifiedTypeName name="javax.swing.JMenuBar"/>
+<fullyQualifiedTypeName name="javax.swing.JMenu"/>
+<fullyQualifiedTypeName name="javax.swing.JMenuItem"/>
+<fullyQualifiedTypeName name="java.awt.List"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="javax.swing.ButtonGroup"/>
+<fullyQualifiedTypeName name="javax.swing.JTextArea"/>
+<fullyQualifiedTypeName name="java.util.Collections"/>
+<fullyQualifiedTypeName name="PhysicalDBLayer.databaseConsts"/>
+<fullyQualifiedTypeName name="PhysicalDBLayer.ScrumCertificateDatabase"/>
+<fullyQualifiedTypeName name="PhysicalDBLayer.DatabaseIfc"/>
+<fullyQualifiedTypeName name="TabContainer"/>
+</qualifiedTypeNameHistroy>

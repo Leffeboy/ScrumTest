@@ -1,0 +1,12 @@
+1452031575766	Delete element
+1452031637845	Delete element
+1452031768695	Delete element
+1452035708139	Rename field 'panel'
+1452167219097	Rename field 'Question'
+1452171398892	Rename field 'gruop'
+1452371210229	Delete elements
+1452371292463	Rename package 'theredSQL'
+1452430838715	Rename type 'databaseConsts'
+1452432731522	Rename local variable 'db'
+1452433513893	Rename type 'database'
+1452457891076	Rename method 'InitGUI'

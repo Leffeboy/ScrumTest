@@ -1,0 +1,14 @@
+package MyPackage;
+
+import javax.swing.JApplet;
+
+public class FirstApplet extends JApplet {
+
+	/**
+	 * Create the applet.
+	 */
+	public FirstApplet() {
+
+	}
+
+}
